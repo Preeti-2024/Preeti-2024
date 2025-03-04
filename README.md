@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Preeti-2024
-- 👀 I’m AI and Web-Developer Enthusiast
-- 🌱 I’m Tech Enthusiast
-- 💞️ I’m looking to collaborate on with like minded coders
+- 👋 Hi, I’m @Preeti-2024.
+- 👀 I’m AI and Web-Developer Enthusiast.
+- 🌱 I’m Tech Enthusiast.
+- 💞️ I’m looking to collaborate with like minded coders.
   
 
 <!---
